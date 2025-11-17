@@ -1,0 +1,72 @@
+{
+  "personal": {
+    "name": "Aman Kumar Gupta",
+    "designation": "Full Stack Developer",
+    "subtitle": "Backend Specialist • Cloud & DevOps Enthusiast",
+    "location": "Gurugram, Haryana, India",
+    "experience": "3+ years"
+  },
+  "social": {
+    "github": {
+      "url": "https://github.com/codecraft26",
+      "username": "codecraft26",
+      "stats": {
+        "repositories": 116,
+        "stars": 197,
+        "followers": 49,
+        "following": 122
+      }
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/codecraft26/",
+      "username": "codecraft26"
+    },
+    "twitter": {
+      "url": "https://twitter.com/codecraft26",
+      "username": "@codecraft26"
+    },
+    "website": {
+      "url": "https://aman-gupta.tech",
+      "name": "Personal Portfolio"
+    },
+    "blog": {
+      "url": "https://hashnode.com/@codecraft26",
+      "platform": "Hashnode",
+      "username": "@codecraft26"
+    },
+    "email": {
+      "url": "mailto:gaman0221@gmail.com",
+      "address": "gaman0221@gmail.com"
+    }
+  },
+  "projects": [
+    {
+      "name": "Inquire",
+      "description": "Q&A application for professional programmers",
+      "tech": "Kotlin",
+      "link": "https://github.com/codecraft26/Inquire"
+    },
+    {
+      "name": "Blog App",
+      "description": "MERN stack blogging platform",
+      "tech": "JavaScript, React, Node.js, MongoDB",
+      "link": "https://github.com/codecraft26/Blog-App"
+    },
+    {
+      "name": "DocSense-RAG",
+      "description": "Intelligent document processing system using RAG",
+      "tech": "FastAPI, Python, LangChain, Weaviate, OpenAI, Docker"
+    },
+    {
+      "name": "Smarter Code - Semantic Search Engine",
+      "description": "Full-stack semantic search engine",
+      "tech": "FastAPI, Next.js, Python, Weaviate, Docker, Socket.IO"
+    },
+    {
+      "name": "Video Transcoding System",
+      "description": "Custom workflow using AWS Lambda + ECS",
+      "tech": "AWS, Lambda, ECS"
+    }
+  ]
+}
+

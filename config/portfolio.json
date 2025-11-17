@@ -1,0 +1,158 @@
+{
+  "skills": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Redux",
+      "Zustand"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "Django",
+      "Spring Boot",
+      "FastAPI",
+      "Kafka",
+      "RabbitMQ",
+      "Firebase"
+    ],
+    "database": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "MongoDB Atlas Vector Search",
+      "Redis",
+      "Weaviate",
+      "Pinecone"
+    ],
+    "cloud": [
+      "AWS (ECS, Fargate, EC2, S3, Lambda, SES)",
+      "GCP",
+      "DigitalOcean",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "GitHub",
+      "Linux",
+      "Shell"
+    ],
+    "aiml": [
+      "LangChain",
+      "OpenAI GPT",
+      "RAG Pipelines",
+      "Vector Embeddings",
+      "Semantic Search",
+      "LLM Integration"
+    ],
+    "payment": [
+      "Razorpay",
+      "PayPal",
+      "Stripe"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Scalable Microservices Architecture",
+      "description": "Designed and deployed scalable microservices using Spring Boot and Node.js",
+      "color": "blue"
+    },
+    {
+      "title": "CI/CD Pipeline Automation",
+      "description": "Built automated CI/CD pipelines with GitHub Actions achieving 50% faster releases",
+      "color": "green"
+    },
+    {
+      "title": "Video Transcoding System",
+      "description": "Developed custom video transcoding workflow using AWS Lambda + ECS",
+      "color": "purple"
+    },
+    {
+      "title": "Production-Grade APIs",
+      "description": "Delivered production-grade APIs with Kafka and RabbitMQ",
+      "color": "orange"
+    },
+    {
+      "title": "Cloud Cost Optimization",
+      "description": "Implemented cloud architecture reducing AWS cost by 3x",
+      "color": "red"
+    },
+    {
+      "title": "Development Efficiency",
+      "description": "Led adoption of third-party admin tool saving 2 months of development effort",
+      "color": "yellow"
+    },
+    {
+      "title": "Technical Writing",
+      "description": "Active blogger on backend engineering, DevOps, and cloud-native systems",
+      "color": "pink"
+    }
+  ],
+  "learning": [
+    "Advanced Machine Learning & MLOps",
+    "Kubernetes & Cloud Native Architecture",
+    "Blockchain fundamentals & decentralized applications",
+    "Microservices, distributed systems & event-driven design"
+  ],
+  "achievements": [
+    {
+      "name": "Quickdraw",
+      "description": "Lightning fast problem solver",
+      "icon": "⚡",
+      "color": "from-yellow-400 to-orange-500"
+    },
+    {
+      "name": "Pull Shark x3",
+      "description": "Contributed to open source projects",
+      "icon": "🦈",
+      "color": "from-blue-400 to-purple-500"
+    },
+    {
+      "name": "YOLO",
+      "description": "Merged pull request without review",
+      "icon": "🎯",
+      "color": "from-green-400 to-teal-500"
+    },
+    {
+      "name": "Developer Program",
+      "description": "GitHub Pro Member",
+      "icon": "⭐",
+      "color": "from-pink-400 to-red-500"
+    }
+  ],
+  "quickStats": [
+    {
+      "label": "Years",
+      "value": "3+",
+      "sublabel": "Experience",
+      "icon": "🎓",
+      "color": "blue"
+    },
+    {
+      "label": "Full Stack",
+      "value": "Developer",
+      "sublabel": "",
+      "icon": "💼",
+      "color": "green"
+    },
+    {
+      "label": "Cloud Native",
+      "value": "Architecture",
+      "sublabel": "",
+      "icon": "☁️",
+      "color": "purple"
+    },
+    {
+      "label": "Open Source",
+      "value": "Contributor",
+      "sublabel": "",
+      "icon": "🚀",
+      "color": "orange"
+    }
+  ]
+}
+
