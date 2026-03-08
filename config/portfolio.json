@@ -57,39 +57,14 @@
   },
   "experience": [
     {
-      "title": "Scalable Microservices Architecture",
-      "description": "Designed and deployed scalable microservices using Spring Boot and Node.js",
+      "title": "SKYCLAD VENTURES",
+      "description": "<strong>Full stack Developer</strong><br/>DEC 2025 – PRESENT<br/>Currently leading full-stack development and architectural decisions.",
       "color": "blue"
     },
     {
-      "title": "CI/CD Pipeline Automation",
-      "description": "Built automated CI/CD pipelines with GitHub Actions achieving 50% faster releases",
+      "title": "Infinite Computer Solutions India Ltd",
+      "description": "<strong>Full stack Developer</strong><br/>Gurugram, India | June 2022 – DEC 2025<br/><ul class='list-disc ml-5 mt-2 space-y-1'><li>Built end-to-end healthcare applications, manipulating 837, 835, 276, 277 EDI files for claims and eligibility workflows.</li><li>Developed dynamic UIs using Next.js, React.js, and TypeScript, and scalable backends using Java (Spring Boot), Node.js, Python (FastAPI, Django).</li><li>Designed and deployed applications from scratch to production using MySQL, PostgreSQL, Kafka, RabbitMQ, and AWS (Fargate, EC2, S3, Lambda, SES).</li><li>Created a custom video transcoder, invoice system (via Puppeteer), and implemented Redis queues for auto-enrollment.</li><li>Led infra optimization, saving 3x AWS cost, and setup GitHub Actions-based CI/CD pipelines with isolated staging/production.</li></ul>",
       "color": "green"
-    },
-    {
-      "title": "Video Transcoding System",
-      "description": "Developed custom video transcoding workflow using AWS Lambda + ECS",
-      "color": "purple"
-    },
-    {
-      "title": "Production-Grade APIs",
-      "description": "Delivered production-grade APIs with Kafka and RabbitMQ",
-      "color": "orange"
-    },
-    {
-      "title": "Cloud Cost Optimization",
-      "description": "Implemented cloud architecture reducing AWS cost by 3x",
-      "color": "red"
-    },
-    {
-      "title": "Development Efficiency",
-      "description": "Led adoption of third-party admin tool saving 2 months of development effort",
-      "color": "yellow"
-    },
-    {
-      "title": "Technical Writing",
-      "description": "Active blogger on backend engineering, DevOps, and cloud-native systems",
-      "color": "pink"
     }
   ],
   "learning": [
@@ -155,4 +130,3 @@
     }
   ]
 }
-
